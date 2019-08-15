@@ -1,3 +1,5 @@
+<img src="data/figs/rise_logo.png" alt="Estructura Carpeta" align="center">
+
 Data of urban form metrics of Latin American and Caribbean cities
 =================================================================
 
