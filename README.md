@@ -1,4 +1,6 @@
-<img src="data/figs/rise_logo.png" alt="Estructura Carpeta" align="center">
+<img src="data/figs/WB_logo.png" alt="World Bank logo" align="left" width ="250" height="76">
+<img src="data/figs/rise_logo.png" alt="RiSE-group logo" align="middle" width ="225" height="66">
+<img src="data/figs/PEAKurban.png" alt="PEAK Urban logo" align="right" width ="200" height="133">
 
 Data of urban form metrics of Latin American and Caribbean cities
 =================================================================
@@ -37,16 +39,17 @@ The impact of urban form on economic performance and quality of life has been wi
 
 ```tex
 @article{XX,
-    author = {Duque, Juan C. AND Lozano, N. AND Patiño, J. AND Restrepo, P. AND Velasquez, W.}
-    journal = {Landscape and Urban Planning Journal},
-    publisher = {xx},
+    author = {Duque, Juan C. AND Lozano-Gracia, Nancy AND Patino, Jorge E. AND Restrepo-Cadavid, Paula AND Velásquez, Wilson A.},
+    journal = {Landscape and Urban Planning},
+    publisher = {Elsevier},
     title = {Spatiotemporal Dynamics of Urban Growth in Latin American Cities: An Analysis Using Nighttime Light Imagery},
-    year = {yy},
+    year = {2019},
     month = {mm},
     volume = {vv},
     url = {xx},
-    pages = {xx},
+    pages = {xx-xx},
     abstract = {The impact of urban form on economic performance and quality of life has been widely recognized. Studies regarding urban form have focused on developed countries; only a small number of cities in developing countries have been studied. This paper utilizes nighttime light imagery and information regarding street networks, automatically retrieved from OpenStreetMap, to calculate a series of spatial metrics that capture different aspects of the urban form of 919 Latin American and Caribbean cities. We study the relationship between the urban form metrics and several factors that can correlate with urban form (topography, size, colony, and economic performance) and perform a spatiotemporal analysis of urban growth from 1996 to 2010. Among the results, we highlight the tendency of a group of cities to grow on steeper slopes and several worrying aspects, specifically urban growth in protected areas and a trend to sprawl-growing in certain Latin American and Caribbean cities.},
     number = {nn},
     doi = {xx}
 }
+```
