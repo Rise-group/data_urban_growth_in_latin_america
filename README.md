@@ -1,6 +1,7 @@
+<img src="data/figs/PEAKurban.png" alt="PEAK Urban logo" align="right" width ="200" height="133">
 <img src="data/figs/WB_logo.png" alt="World Bank logo" align="left" width ="250" height="76">
 <img src="data/figs/rise_logo.png" alt="RiSE-group logo" align="middle" width ="225" height="66">
-<img src="data/figs/PEAKurban.png" alt="PEAK Urban logo" align="right" width ="200" height="133">
+
 
 Data of urban form metrics of Latin American and Caribbean cities
 =================================================================
